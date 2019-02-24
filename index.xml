@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law DataInfo="181225e04k03m02" Era="Showa" Lang="ja" LawType="Act" Num="48" Year="45">
+<Law DataInfo="181225e04k03m04" Era="Showa" Lang="ja" LawType="Act" Num="48" Year="45">
   <LawNum>昭和四十五年法律第四十八号</LawNum>
   <LawBody>
     <LawTitle>著作権法</LawTitle>
@@ -3366,7 +3366,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence>著作権の移転（相続その他の一般承継によるものを除く。次号において同じ。）若しくは信託による変更又は処分の制限</Sentence>
+                  <Sentence>著作権の移転若しくは信託による変更又は処分の制限</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -3708,7 +3708,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence>出版権の設定、移転（相続その他の一般承継によるものを除く。次号において同じ。）、変更若しくは消滅（混同又は複製権若しくは公衆送信権の消滅によるものを除く。）又は処分の制限</Sentence>
+                <Sentence>出版権の設定、移転、変更若しくは消滅（混同又は複製権若しくは公衆送信権の消滅によるものを除く。）又は処分の制限</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -7863,6 +7863,51 @@
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence>施行日が著作権法改正法附則第一条第二号に掲げる規定の施行の日以後である場合には、前条及び前二項の規定は、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年七月一三日法律第七二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第三十条及び第三十一条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="20">
+        <ArticleCaption>（著作権法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>前条の規定による改正後の著作権法第七十七条（同法第百四条において準用する場合を含む。）及び第八十八条第一項の規定は、施行日以後の著作権、出版権若しくは著作隣接権又はこれらの権利を目的とする質権（以下この条において「著作権等」という。）の移転について適用し、施行日前の著作権等の移転については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="31">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
